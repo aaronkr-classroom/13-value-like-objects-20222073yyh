@@ -7,6 +7,7 @@
 #include "median.h"
 #include "Student_info.h"
 #include "Vec.h" // vector -> Vec
+#include "Str.h"
 
 bool did_all_hw(const Student_info& s) {
     return ((find(s.homework.begin(), s.homework.end(), 0)) == s.homework.end());

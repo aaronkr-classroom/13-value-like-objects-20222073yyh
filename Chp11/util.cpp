@@ -5,7 +5,7 @@
 #include <iomanip>
 #include <iostream>
 #include "Vec.h" // vector -> Vec
-
+#incldue "Str.h"
 #include "analysis.h"
 #include "Student_info.h"
 

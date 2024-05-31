@@ -5,7 +5,7 @@
 #define GUARD_Student_info
 
 #include <iostream>
-#include <string>
+#include "Str.h"
 #include "Vec.h" // vector -> Vec
 
 using namespace std;
